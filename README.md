@@ -8,3 +8,5 @@ Type `make` in a terminal.
 Enter `./jacobi2D-multigrid Nfine max_iters [ssteps]`,
 
 where `Nfine` is the number of intervals, must be power of 2, `max_iters` is the maximum number of iterations.
+
+`ssteps` is set by default to be `3` if not input.
